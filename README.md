@@ -4,5 +4,5 @@ Eu irei ir atualizando conforme meu progresso de leitura e realização dos exer
 
 As questões as quais tiverem algo como "ex001_0" e "ex001_1" querem dizer que eu refiz a questão de maneira mais pratica, assim as questões que tivere "_1" serão as versões finais da minha resposta.
 
-Espero pode ajudar alguém com este repositoria de exemplos e questões.
+Espero poder ajudar alguém com este repositoria de exemplos e questões.
 Muito obrigado! 
